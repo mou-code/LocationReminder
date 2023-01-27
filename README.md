@@ -31,10 +31,10 @@ To build this project, you require:
 ## Screenshots
 <h4 align="center">
 
-<img src="screenshots/login.jpg" width="30%" vspace="10" hspace="10">
-<img src="screenshots/main.jpg" width="30%" vspace="10" hspace="10">
-<img src="screenshots/detail.jpg" width="30%" vspace="10" hspace="10">
-<img src="screenshots/map.jpg" width="30%" vspace="10" hspace="10">
+<img src="screenshots/login.png" width="30%" vspace="10" hspace="10">
+<img src="screenshots/main.png" width="30%" vspace="10" hspace="10">
+<img src="screenshots/detail.png" width="30%" vspace="10" hspace="10">
+<img src="screenshots/map.png" width="30%" vspace="10" hspace="10">
 
 
 ## License
